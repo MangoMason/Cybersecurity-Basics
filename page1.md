@@ -1,7 +1,10 @@
-# Page 1
+## Understanding Cybersecurity
+What is Cybersecurity?
 
-Welcome to Page 1
+Cybersecurity involves practices and technologies designed to protect systems, networks, and data from cyber threats like hacking, data breaches, and malware. The goal of cybersecurity is to defend personal and organizational information from unauthorized access, damage, and theft.
 
-- This page shows lists 
-  - List 1
-  -list 2
+## Basic Cybersecurity terms
+* Malware: Software designed to harm a computer or network. (Ex: Viruses, ransomware)
+* Phishing: A technique used to deceive individuals into revealing sensitive information.
+* Encryption: The process of converting data into a secure format that onyl authorized parties can read.
+* Firewall: A system designed to prevent unauthorized access to or from a private network.

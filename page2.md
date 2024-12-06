@@ -9,5 +9,5 @@ A strong password is your first line of defense against unauthorized access to y
 3. Avoid using personal information: Don't use an easily guessable password like your name, birthdate, or even your favorite pet.
 4. Password manager: Use a password manager to generate and store unique passwords for each account.
 
-##Example of a Strong Password:
+### Example of a Strong Password:
 MT@9?qP4eDh!6

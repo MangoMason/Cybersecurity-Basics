@@ -11,3 +11,5 @@ Even if someone manages to steal your password, they won't be able to access you
 * Google Authenticator
 * Microsoft Authenticator
 * Authy
+
+[Back to Home](README.md) | [Page 4](page4.md)

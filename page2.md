@@ -11,3 +11,5 @@ A strong password is your first line of defense against unauthorized access to y
 
 ### Example of a Strong Password:
 MT@9?qP4eDh!6
+
+[Back to Home](README.md) | [Page 3](page3.md)
